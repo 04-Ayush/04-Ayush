@@ -5,8 +5,9 @@
 
 <!-- Profile Avatar & Bio -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/04-Ayush?v=4" width="120" style="border-radius: 50%" />
+  <img src="https://github.com/04-Ayush.png" width="120" style="border-radius: 50%" />
 </p>
+
 
 <h1 align="center">Hi there, I'm <span style="color:#27ae60;">AYUSH RAWAT</span> 👋</h1>
 
