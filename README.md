@@ -5,10 +5,10 @@
 
 <!-- Profile Avatar & Bio -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" width="120" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/u/04-Ayush?v=4" width="120" style="border-radius: 50%" />
 </p>
 
-<h1 align="center">Hi there, I'm <span style="color:#27ae60;">Your Name</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#27ae60;">AYUSH RAWAT</span> 👋</h1>
 
 <p align="center">
 💻 Developer | 🎨 Designer | 🌟 Lifelong Learner <br>
@@ -32,15 +32,15 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=04-Ayush&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=04-Ayush&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=04-Ayush&layout=compact&theme=gruvbox" />
 </p>
 
 ---
