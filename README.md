@@ -1,6 +1,6 @@
 <!-- Banner / GIF Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hello+World!+🌍;Welcome+to+my+GitHub+Profile;Crafting+code+with+creativity+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=550&lines=Hello+World!+🌍;Welcome+to+my+GitHub+Profile;Crafting+code+with+creativity+🚀" alt="Typing SVG" />
 </p>
 
 <!-- Profile Avatar & Bio -->
