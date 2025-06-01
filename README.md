@@ -73,16 +73,6 @@ Here are a few cool things I've worked on:
 
 ---
 
-### 🕵️‍♂️ Psst! Hidden in this README...
-
-<details>
-  <summary>Click me to reveal a secret 👀</summary>
-  <br>
-  🎁 You found the easter egg! Tweet me a code word: **`#ReadmeWhiz`** and I might feature your project!
-</details>
-
----
-
 ### 🤝 Connect With Me
 
 <p align="center">
