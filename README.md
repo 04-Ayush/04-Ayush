@@ -13,7 +13,7 @@
 
 <p align="center">
 💻 Developer | 🎨 Designer | 🌟 Lifelong Learner <br>
-📍 Based in [Your City] • 🌐 Building things for the web
+📍 Based in Delhi • 🌐 Building things for the web
 </p>
 
 ---
